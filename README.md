@@ -1,4 +1,3 @@
-# hotel_service
 Hotel Booking Service - Документация
 
 О проекте
